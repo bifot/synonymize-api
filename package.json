@@ -1,0 +1,26 @@
+{
+  "name": "synonymize-api",
+  "version": "1.1.0",
+  "description": "Easy API for synonymize russian words.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bifot/synonymize-api.git"
+  },
+  "keywords": [
+    "synonymize"
+  ],
+  "author": "Mikhail Semin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bifot/synonymize-api/issues"
+  },
+  "homepage": "https://github.com/bifot/synonymize-api#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.81.0"
+  }
+}
