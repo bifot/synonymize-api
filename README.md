@@ -11,7 +11,7 @@ $ npm install synonymize-api
 ## Usage
 
 ```javascript
-const synonymize = require('synonymize');
+const synonymize = require('synonymize-api');
 
 synonymize('машина').then(response => {
   console.log(response); // => [ 'автомобиль', 'аппарат', 'спорткар', 'more 20 items...' ]
