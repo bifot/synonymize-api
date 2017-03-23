@@ -11,7 +11,12 @@
     "url": "git+https://github.com/bifot/synonymize-api.git"
   },
   "keywords": [
-    "synonymize"
+    "synonymize",
+    "synonyms",
+    "word",
+    "synonym",
+    "finder",
+    "words"
   ],
   "author": "Mikhail Semin",
   "license": "MIT",
